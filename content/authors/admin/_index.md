@@ -66,6 +66,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi, I am Yangyi Yu. Nice to meet you. I am still building my personal website. 👩‍💻👩‍💻
+Hi, I am Yangyi Yu. Nice to meet you. I am still building my personal website.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
