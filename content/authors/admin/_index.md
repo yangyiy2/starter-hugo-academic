@@ -27,7 +27,7 @@ education:
   - course: B.A. in Industrial Organizational Psychology 
     institution: University of Illinois, Urbana-Champaign
     year: Expected 2022 
-  - course: B.S. in Industrial Organizational Statistics
+  - course: B.S. in Statistics
     institution: University of Illinois, Urbana-Champaign
     year: Expected 2022 
 
